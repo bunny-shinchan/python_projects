@@ -16,4 +16,4 @@ __pycache__/
 *.idea/
 
 # OS-specific files
-.DS_Store
+.DS_Store.DS_Store
