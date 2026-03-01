@@ -13,7 +13,7 @@ __pycache__/
 
 # IDE / Editor settings
 .vscode/
-.idea/
+*.idea/
 
 # OS-specific files
 .DS_Store
